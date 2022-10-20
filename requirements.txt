@@ -1,0 +1,4 @@
+gradio
+tensorflow-cpu==2.8.0
+numpy
+protobuf==3.20.*
